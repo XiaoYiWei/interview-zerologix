@@ -16,6 +16,12 @@ const Outline = styled.header`
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     height: 132px;
     padding: 0 90px;
+    @media (max-width: 768px) {
+        padding: 0 34px;
+    }
+    @media (max-width: 320px) {
+        padding: 0 16px;
+    }
 `
 
 const MyWebinarButton = styled(LinkButton)`

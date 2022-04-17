@@ -4,8 +4,12 @@
 
 ## Scripts
 
+請使用下列指令安裝packages:
+
+### `pnpm install`
+
 請使用下列指令來執行專案:
 
-### `npm start`
+### `pnpm start`
 
-### 開發紀錄
+### [開發紀錄](docs/LOGS.md)
